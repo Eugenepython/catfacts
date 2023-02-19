@@ -1,0 +1,31 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    background-image:url('1.jpeg')
+}
+
+.header{
+  font-size: 1em;
+  font-weight: bold;
+  text-align: center;
+  color: #333;
+  margin-bottom: 20px;
+  text-shadow: 1px 1px #ccc;
+  background: red;
+}
+
+.image-button {
+   background-image: url("bob.jpg");
+  background-size: cover;
+  background-position: center;
+  width: 300px;
+  height: 350px;
+  border: none;
+  cursor: pointer;
+  display: block;
+  margin: 0 auto;
+}
+
+#fact{
+    background-color:yellow
+}
